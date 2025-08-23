@@ -10,16 +10,6 @@ This script monitors the disk usage of the parent directory of the current worki
 
 - Bash
 
-### Directory Tree
-
-.
-└── disk-wiper/
-    ├── run.sh
-    ├── secure-random
-    ├── README.MD
-    ├── trash (temporarily file)
-    └── debug.sh (you can delete it)
-
 ### Instructions
 
 1. Put `disk-wiper/` in the root directory of the disk.
