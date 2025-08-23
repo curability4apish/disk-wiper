@@ -1,6 +1,5 @@
 momdir=$(dirname "$(pwd)")
 
-# Check disk usage before copying
 disk_usage=$(df "$momdir" | tail -1 | awk '{print $5}' | sed 's/%//')
 
 if [ "$disk_usage" -lt 95 ]; then
