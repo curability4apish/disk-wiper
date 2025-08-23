@@ -1,4 +1,4 @@
-### Aout
+### About
 
 Use this script to securely wipe your disk.
 
