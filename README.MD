@@ -24,5 +24,3 @@ The file system of that disk should support large files. For example, FAT is not
 ## Warning
 
 Because `secure-random` and `trash` files can be large, **only** view them using the `nano` editor in the terminal to avoid potential crashes caused by opening large files in heavier editors or file viewers.
-
-
