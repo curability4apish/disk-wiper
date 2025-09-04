@@ -8,7 +8,11 @@ This script monitors the disk usage while wiping it. It continuously writes the 
 
 ### Requirements
 
-- Bash
+A device that can be plugged in the disk to wipe, and that device should have the ability to execute bash.
+
+The file system should support large files. For example, FAT is not supported.
+
+
 
 ### Instructions
 
