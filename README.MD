@@ -15,7 +15,7 @@ This script monitors the disk usage while wiping it. It continuously writes the 
 1. Put `disk-wiper/` in the root directory of the disk.
 2. Open your file manager, navigate into the `disk-wiper/` folder.
 3. Right-click on any blank space inside `disk-wiper/` and select "Open in Terminal".
-4. Run the script with `$ ./run.sh`.
+4. Run the script with `$ bash ./run.sh`.
 
 ## Warning
 
